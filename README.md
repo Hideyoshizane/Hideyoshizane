@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Hideki Yoshizane</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-- 🌱 I’m currently studying **Angular**
+- 🌱 I’m currently studying **Vue**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/hidekiyoshizane](https://www.behance.net/hidekiyoshizane)
 
@@ -13,6 +13,7 @@
 
   <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -31,4 +32,5 @@
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 <p/>
