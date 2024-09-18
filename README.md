@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Hideki Yoshizane</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-- 🌱 I’m currently studying **Vue**
+- 🌱 I’m currently working on a **React Project**
 
 - 👨‍💻 All of my projects are available at [https://www.behance.net/hidekiyoshizane](https://www.behance.net/hidekiyoshizane)
 
