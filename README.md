@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently working on a **React Project**
 
-- 👨‍💻 All of my projects are available at [https://www.behance.net/hidekiyoshizane](https://www.behance.net/hidekiyoshizane)
-
 - 📫 How to reach me **hideyoshizane@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/hideki-yoshizane/](https://www.linkedin.com/in/hideki-yoshizane/)
