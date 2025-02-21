@@ -1,7 +1,7 @@
 <h1 align="center">Hello there, I'm Hideki Yoshizane</h1>
 <h3 align="center">A frontend developer from Brazil</h3>
 
-- 🌱 I’m currently working on a **Vue Project**
+- 🌱 I’m currently studying **Flutter**
 
 - 📫 How to reach me **hideyoshizane@gmail.com**
 
